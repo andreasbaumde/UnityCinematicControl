@@ -12,13 +12,13 @@ UnityCinematicControl is a lightweight Unity script designed to enhance your gam
 - **Live Camera UI**: A compact UI that displays all relevant settings and information.
 - **Toggleable UI Elements**: Includes a toggleable info UI and crosshair.
 - **Y-Axis Movement Restriction**: Option to restrict movement along the y-axis.
-- **New Input System Utilization**: Built to work with Unity's new input system.
+- **New Input System Utilization**: Built to work with Unity's New Input System.
 - **Camera Speed Modes**: Different speed modes available using modifier inputs (trigger buttons).
 
 ## Requirements
 
-- A gamepad is required (mouse & keyboard currently not supported). Feel free to modify the script to add this support.
-- Your project must have the new input system package imported and activated.
+- A **gamepad** is required (mouse & keyboard currently not supported). Feel free to modify the script to add this support.
+- Your project must have the **New Input System** package imported and activated.
 
 ## Installation
 
