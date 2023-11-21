@@ -4,6 +4,8 @@
 
 UnityCinematicControl is a versatile Unity camera control script, enabling dynamic and cinematic camera movements with ease. Ideal for crafting compelling game trailers and cutscenes, it provides developers with intuitive tools for enhancing visual storytelling in their games.
 
+[Watch example footage (Vimeo)](https://vimeo.com/886964692)
+
 ## Features
 
 - **Real-Time Speed Controls**: Adjust movement and rotation speeds in real-time.
@@ -16,6 +18,8 @@ UnityCinematicControl is a versatile Unity camera control script, enabling dynam
 - **Y-Axis Movement Restriction**: Option to restrict movement along the y-axis.
 - **New Input System Utilization**: Built to work with Unity's New Input System.
 - **Camera Speed Modes**: Different speed modes available using modifier inputs (trigger buttons).
+
+[Feature video (Vimeo)](https://vimeo.com/886964462)
 
 ## Requirements
 
