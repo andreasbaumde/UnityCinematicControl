@@ -1,3 +1,5 @@
+![Unity Cinematic Control](https://raw.githubusercontent.com/andreasbaumde/UnityCinematicControl/main/Assets/github-image.jpg)
+
 # UnityCinematicControl
 
 UnityCinematicControl is a lightweight Unity script designed to enhance your game development experience. It allows you to effortlessly capture game footage for trailers, cutscenes, or devlogs. This tool is perfect for developers looking to add cinematic flair to their games with ease and flexibility.
