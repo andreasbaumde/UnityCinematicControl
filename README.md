@@ -2,7 +2,7 @@
 
 # UnityCinematicControl
 
-UnityCinematicControl is a lightweight Unity script designed to enhance your game development experience. It allows you to effortlessly capture game footage for trailers, cutscenes, or devlogs. This tool is perfect for developers looking to add cinematic flair to their games with ease and flexibility.
+UnityCinematicControl is a versatile Unity camera control script, enabling dynamic and cinematic camera movements with ease. Ideal for crafting compelling game trailers and cutscenes, it provides developers with intuitive tools for enhancing visual storytelling in their games.
 
 ## Features
 
