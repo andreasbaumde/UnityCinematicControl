@@ -24,12 +24,13 @@ UnityCinematicControl is a versatile Unity camera control script, enabling dynam
 
 ## Installation
 
-1. Ensure you have a camera in your scene tagged as `MainCamera`.
-2. Add the `CameraController` component to this game object.
-3. Adjust the LayerMask field to mark the layers the fly-to function can fly to.
-4. Drag the canvas prefab into your scene to use the camera UI.
-5. Ensure you have TextMesh Pro in your project for the UI text elements.
-6. Include the sprite for the crosshair in your project.
+1. Download [UnityCinematicControl.unitypackage](https://github.com/andreasbaumde/UnityCinematicControl/raw/main/UnityCinematicControl.unitypackage)
+2. Ensure you have a camera in your scene tagged as `MainCamera`.
+3. Add the `CameraController` component to this game object.
+4. Adjust the LayerMask field to mark the layers the fly-to function can fly to.
+5. Drag the canvas prefab into your scene to use the camera UI.
+6. Ensure you have TextMesh Pro in your project for the UI text elements.
+7. Include the sprite for the crosshair in your project.
 
 ## Keybinds
 
